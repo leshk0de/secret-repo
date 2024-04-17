@@ -1,0 +1,15 @@
+{
+    "San Diego Area": ["San Diego, CA", "Oceanside, CA"],
+    "Orange County": ["Dana Point, CA", "Newport Beach, CA", "Marina Del Rey, CA"],
+    "Los Angeles Area": ["San Pedro, CA", "Long Beach, CA", "Redondo Beach, CA"],
+    "Ventura County": ["Oxnard, CA", "Ventura, CA"],
+    "Central Coast": ["Santa Barbara, CA", "Morro Bay, CA", "Avila Beach, CA"],
+    "San Francisco Bay Area": ["San Francisco, CA", "Emeryville, CA", "Berkeley, CA", "Alameda, CA", "Richmond, CA", "Sausalito, CA"],
+    "North Bay": ["Bodega Bay, CA"],
+    "Monterey Bay Area": ["Monterey, CA", "Santa Cruz, CA"],
+    "North Coast": ["Eureka, CA"],
+    "Washington State": ["Westport, WA", "Edmonds, WA"],
+    "Oregon": ["Depoe Bay, OR", "Charleston, OR", "South Beach, OR"],
+    "Ohaio": ["Ashtabula, OH"]
+}
+  
